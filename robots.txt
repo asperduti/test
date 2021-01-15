@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cervezahopfen.com/sitemap.xml
